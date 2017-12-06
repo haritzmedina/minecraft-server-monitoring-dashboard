@@ -1,0 +1,1 @@
+*/10    *       *       *       *       <route-to-your-log.sh>
